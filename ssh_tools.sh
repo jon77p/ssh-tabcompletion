@@ -25,3 +25,4 @@ _ssh_completions()
 }
 
 complete -F _ssh_completions ssh
+complete -F _ssh_completions ssh_ip
